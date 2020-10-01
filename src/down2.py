@@ -15,7 +15,7 @@ def convertMP3(pathArray):
 
             audioClip.close()
             videoClip.close()
-            print('------ CONVERSAO FINALIZADA! ------') #https://www.youtube.com/watch?v=txTqtm58AqM https://www.youtube.com/watch?v=RtBbinpK5XI https://www.youtube.com/watch?v=Q2r8luTFKE4 https://www.youtube.com/watch?v=mc58QjI6vDc
+            print('------ CONVERSAO FINALIZADA! ------')
 
 def downloadVideo(links, path):
     linkArray = links.split(' ')
